@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "https://www.gentoo.org/dtd/repositories.dtd">
+<repositories version="1.0">
+  <repo quality="stable" status="unofficial">
+    <name>asymptotically</name>
+    <description lang="en">asymptotically's ebuild repository</description>
+    <homepage>https://offtopica.uk</homepage>
+    <owner type="person">
+      <name>Matt Smith</name>
+      <email>matt@offtopica.uk</email>
+    </owner>
+    <source type="git">https://github.com/00-matt/ebuild.git</source>
+    <feed>https://github.com/00-matt/ebuild/commits/master.atom</feed>
+  </repo>
+</repositories>
